@@ -15,8 +15,8 @@ About
 
 .. toctree::
 
-   Talos status
-   Past services
+   Talos_status
+   Past_services
 
 Contents
 --------
