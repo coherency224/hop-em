@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Homewood Cryo-EM'
+copyright = '2022, JH-Homewood'
+author = 'Homewood EM facility'
 
 release = '0.1'
 version = '0.1.0'
