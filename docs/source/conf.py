@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Homewood Cryo-EM technical notes'
+project = 'Cryo-EM technical notes'
 copyright = '2025, JH-Homewood'
 author = 'Homewood EM facility'
 
