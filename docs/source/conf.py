@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Homewood Cryo-EM'
-copyright = '2022, JH-Homewood'
+copyright = '2025, JH-Homewood'
 author = 'Homewood EM facility'
 
 release = '0.1'
@@ -33,3 +33,9 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+#
+# html_logo = None
+html_logo = "../images/imagesksas.png"
