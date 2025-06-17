@@ -4,7 +4,7 @@ Talos 200C status
 ==========================
 
 :Author: homewood em
-:Contact: <dummy@gmail.com>
+:Contact: <https://sites.krieger.jhu.edu/iic/>
 :Date-created: 2025-6-11
 :Last-updated: 2025-6-11
 
