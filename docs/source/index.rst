@@ -10,7 +10,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-About
+Equipment
 --------
 
 .. toctree::
@@ -18,11 +18,13 @@ About
    Talos_status
    Past_services
 
-Contents
+Protocols
 --------
 
 .. toctree::
 
-   usage
-   api
+   iLab
+   Kiosk
+
+   
 
