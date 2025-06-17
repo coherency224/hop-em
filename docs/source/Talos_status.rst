@@ -8,4 +8,4 @@ Talos 200C status
 :Date-created: 2025-6-11
 :Last-updated: 2025-6-17
 
-Operational
+6/17/2025 - Operational
