@@ -25,6 +25,7 @@ Protocols
 
    iLab
    Kiosk
+   PowerCycle_Talos
 
    
 
