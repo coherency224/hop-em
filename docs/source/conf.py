@@ -3,8 +3,7 @@
 # -- Project information
 
 project = 'Cryo-EM technical notes'
-copyright = '2025, JH-Homewood'
-author = 'Homewood EM facility'
+author = 'Homewood CryoEM facility'
 
 release = '0.1'
 version = '0.1.0'
