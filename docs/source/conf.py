@@ -4,6 +4,7 @@
 
 project = 'Cryo-EM technical notes'
 author = 'Homewood CryoEM facility'
+copyright = '2025, Homewood CryoEM'
 
 release = '0.1'
 version = '0.1.0'
