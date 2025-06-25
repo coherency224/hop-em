@@ -12,7 +12,7 @@ Past services on Talos 200c
 Past services on Tecnai T12
 ==========================
 
-:Author: homewood em
+:Author: homewood cryoem
 :Date-created: 2025-6-11
 :Last-updated: 2025-6-11
 
