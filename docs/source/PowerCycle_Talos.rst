@@ -5,7 +5,7 @@ Power Cycle Talos F200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-25
-:Last-updated: 2025-6-25
+:Last-updated: 2025-6-26
 
 1. Warm up CETA detector
 2. Launcher -> Stop All (Server and Applications)
@@ -24,7 +24,13 @@ Power Cycle HT tank
 4. Switch HT tank breaker on
 5. Laucher -> Start server and applications
 
-Power Cycle UPS
+Power Cycle UPS (Toshiba 1600XP)
 ==========================
 
-Switch off and on the breaker in the back
+Instrument is shut down properly before the following steps.
+1. Switch off the breaker in the back of UPS
+2. Important: wait long enough until the display goes dark
+3. Switch on the breaker
+4. Press and hold STOP to bring the UPS to Bypass mode
+5. Start up instrument properly
+6. Press and hold RUN to bring UPS On-line
