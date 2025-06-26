@@ -28,6 +28,7 @@ Power Cycle UPS (Toshiba 1600XP)
 ==========================
 
 Instrument is shut down properly before the following steps.
+
 1. Switch off the breaker in the back of UPS
 2. Important: wait long enough until the display goes dark
 3. Switch on the breaker
