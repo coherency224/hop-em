@@ -18,11 +18,11 @@ Power Cycle Talos F200c
 Power Cycle HT tank
 ==========================
 
-1. Launcher -> Stop All (Server and Applications)
+1. Launcher -> Stop All (Server and Applications); (Optionally shut down microscope PC.)
 2. Switch HT tank breaker off
 3. Wait 2min
 4. Switch HT tank breaker on
-5. Laucher -> Start server and applications
+5. (Optionally boot up microscope PC.) Laucher -> Start server and applications
 
 Power Cycle UPS (Toshiba 1600XP)
 ==========================
