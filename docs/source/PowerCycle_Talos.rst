@@ -5,7 +5,7 @@ Power Cycle Talos F200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-25
-:Last-updated: 2025-6-26
+:Last-updated: 2025-7-11
 
 1. Warm up CETA detector
 2. Launcher -> Stop All (Server and Applications)
