@@ -5,7 +5,7 @@ Power Cycle Talos F200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-25
-:Last-updated: 2025-7-11
+:Last-updated: 2025-7-15
 
 1. Warm up CETA detector
 2. Launcher -> Stop All (Server and Applications)
@@ -19,9 +19,9 @@ Power Cycle HT tank
 ==========================
 
 1. Launcher -> Stop All (Server and Applications); (Optionally shut down microscope PC.)
-2. Switch HT tank breaker off
-3. Wait 2min
-4. Switch HT tank breaker on
+2. Switch off HT tank breaker in the power cabinet (F3)
+3. Wait 8min20sec
+4. Switch F3 HT tank breaker on
 5. (Optionally boot up microscope PC.) Laucher -> Start server and applications
 
 Power Cycle UPS (Toshiba 1600XP)
