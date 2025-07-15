@@ -8,4 +8,4 @@ Talos 200C status
 :Date-created: 2025-6-11
 :Last-updated: 2025-6-25
 
-6/25/2025 - HT out of order. Instrument down. Wait for service.
+7/15/2025 - HT out of order. Instrument down. Wait for service.
