@@ -1,9 +1,9 @@
 .. Talos_status:
 
-Talos 200C status
+Talos F200C status
 ==========================
 
-:Author: homewood em
+:Author: homewood cryoem
 :Contact: https://sites.krieger.jhu.edu/iic/
 :Date-created: 2025-6-11
 :Last-updated: 2025-7/15
