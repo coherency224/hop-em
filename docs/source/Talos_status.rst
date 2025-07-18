@@ -8,4 +8,4 @@ Talos F200C status
 :Date-created: 2025-6-11
 :Last-updated: 2025-7/15
 
-7/15/2025 - HT out of order. Instrument down. Wait for service.
+7/17/2025 - Usable, AC out of order.
