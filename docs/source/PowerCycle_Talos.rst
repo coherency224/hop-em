@@ -5,13 +5,13 @@ Power Cycle Talos F200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-25
-:Last-updated: 2025-7-24
+:Last-updated: 2025-7-28
 
 1. Retract and warm up CETA detector, HT off, FEG off, FEG Power off (IGPf), vent projection.
 2. Launcher -> Stop All (Server and Applications)
 3. Shut down microscope PC
-4. In the cabinet, switch F2 to F9 outlets circuit breakers off (eight in total, left to right) -> F1 main circuit breaker off 
-5. Switch F1 main circuit breaker on -> switch F9 to F2 outlets circuit breakers on (eight in total, right to left)
+4. In the cabinet, switch F9 to F2 outlets circuit breakers off (eight in total, right to left) -> F1 main circuit breaker off 
+5. Switch F1 main circuit breaker on -> switch F2 to F9 outlets circuit breakers on (eight in total, left to right)
 6. Start microscope PC, log in 
 7. Laucher -> Start server and applications
 
