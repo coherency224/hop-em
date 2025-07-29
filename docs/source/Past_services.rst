@@ -9,11 +9,15 @@ Past services on Talos 200c
 
 HVAC events: 6/13 (planned), 6/27 (planned), 7/15 (unplanned)
 
-6/9/2025 to 6/17/2025 - Thermo service. Remove a lost grid on the differential pumping aperture. Chilled water treatment. Annual PM. 
+6/9/2025 to 6/17/2025 - Thermo service. Remove a lost grid on the differential pumping aperture. Chilled water treatment. Annual PM. <CA>
 
-6/25/2025 to 6/30/2025 - Down due to power interruption. Thermo service. Powercycle HT tank. Recovered on 6/30.
+6/25/2025 to 6/30/2025 - Down due to power interruption. Thermo service. Powercycle HT tank. Recovered on 6/30. <SR>
 
 7/10/2025 - UPS battery check by Chesapeake MC.
+
+7/15/2025 to 7/16/2025 - Down due to power interruption. Powercycle 24V and HT to clear HT FW error. 
+
+7/29/2025 - UPS service, replace batteries, warning remains. Power off, then power on, HT FW error. TEM server off -> F4 24V breaker and F3 HT breaker off, wait 20sec -> 24V on, wait 20sec -> HT on, wait -> FW Validate pass. Evacuate all, FEG Power on -> warm start. HT clickable when Extraction reaches 1000V.  
 
 Past services on Tecnai T12
 ==========================
