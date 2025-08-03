@@ -5,9 +5,9 @@ Past services on Talos 200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2025-7-15
+:Last-updated: 2025-8-3
 
-HVAC events: 6/13 (planned), 6/27 (planned), 7/15 (unplanned)
+HVAC events: 6/13 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - present (unplanned)
 
 6/9/2025 to 6/17/2025 - Thermo service. Remove a lost grid on the differential pumping aperture. Chilled water treatment. Annual PM. <CA>
 
