@@ -1,6 +1,6 @@
 .. Troubleshooting:
 
-Optics degraded on Talos F200c
+Troubleshooting - Optics degraded on Talos F200c
 ==========================
 
 :Author: homewood cryoem
@@ -16,6 +16,8 @@ Optics degraded on Talos F200c
    :alt: snapshot with nav feature
    :align: center
 
+Learning materials
+==========================
 
 https://github.com/coherency224/hop-em/blob/main/docs/_downloads/Sec_IIA.pdf
 
