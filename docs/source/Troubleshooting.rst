@@ -17,6 +17,8 @@ Learning materials
 
 https://github.com/coherency224/hop-em/blob/main/docs/_downloads/Sec_IIA.pdf
 
+https://github.com/coherency224/hop-em/blob/main/docs/_downloads/tem_primer2011.pdf
+
 :download:`Negative_staining<../_downloads/Sec_IIA.pdf>`.
 
 :download:`TEM Primer<../_downloads/tem_primer2011.pdf>`.
