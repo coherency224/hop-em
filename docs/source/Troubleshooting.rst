@@ -16,9 +16,6 @@ Optics degraded on Talos F200c
    :alt: snapshot with nav feature
    :align: center
 
-.. download:: ../images/Sec_IIA.pdf
-   :alt: Negative_staining
-   :align: center
 
 :download:`Negative_staining<../images/Sec_IIA.pdf>`
 The PDF of the PPT talk is here :download:`CryoET Workshop Michigan<../doc/cryoET_workshop_review_kk.pdf>`.
