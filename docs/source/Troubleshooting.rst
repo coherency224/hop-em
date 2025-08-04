@@ -17,5 +17,5 @@ Optics degraded on Talos F200c
    :align: center
 
 
-.. download:: https://github.com/coherency224/hop-em/blob/main/docs/_downloads/Sec_IIA.pdf
+https://github.com/coherency224/hop-em/blob/main/docs/_downloads/Sec_IIA.pdf
 
