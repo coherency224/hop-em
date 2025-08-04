@@ -17,3 +17,4 @@ Learning materials
 
 https://github.com/coherency224/hop-em/blob/main/docs/_downloads/Sec_IIA.pdf
 
+<object data="../_downloads/Sec_IIA.pdf" width="1000" height="1000" type='application/pdf'></object>
