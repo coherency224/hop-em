@@ -17,5 +17,5 @@ Learning materials
 
 https://github.com/coherency224/hop-em/blob/main/docs/_downloads/Sec_IIA.pdf
 
-here :download:`CryoEM</_downloads/Sec_IIA.pdf>`.
+:download:`Negative_staining</_downloads/Sec_IIA.pdf>`.
 
