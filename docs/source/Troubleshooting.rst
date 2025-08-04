@@ -16,7 +16,8 @@ Optics degraded on Talos F200c
    :alt: snapshot with nav feature
    :align: center
 
-.. image:: ../images/Sec_IIA.pdf
-   :scale: 50 %
+.. download:: ../images/Sec_IIA.pdf
    :alt: Negative_staining
    :align: center
+
+:download:`Negative_staining<../images/Sec_IIA.pdf>`
