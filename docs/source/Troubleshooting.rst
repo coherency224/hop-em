@@ -10,3 +10,13 @@ Optics degraded on Talos F200c
 1. shutting down the TEM server
 2. powering cycling the optics system
 3. restarting the TEM server
+
+.. image:: ../images/imagesksas.png
+   :scale: 50 %
+   :alt: snapshot with nav feature
+   :align: center
+
+.. image:: ../images/Sec_IIA.pdf
+   :scale: 50 %
+   :alt: snapshot with nav feature
+   :align: center
