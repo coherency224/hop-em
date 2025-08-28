@@ -8,7 +8,9 @@ Troubleshooting - Optics degraded on Talos F200c
 :Last-updated: 2025-8-28
 
 Concurrent Optics degraded error (no beam), and Ceta cooling error.
+
 Option #1
+
 1. Close column valves, retract detector
 2. In Microscope software launcher, right click the microscope icon, select Stop All. Wait until the status becomes 'stopped'
 3. In Microscope software launcher, right click the microscope icon, select Start server and applications. Wait until the status becomes 'started'
