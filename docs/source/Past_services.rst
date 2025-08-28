@@ -5,7 +5,7 @@ Past services on Talos 200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2025-8-27
+:Last-updated: 2025-8-28
 
 HVAC events: 6/13 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned), 8/27 (unplanned)
 
@@ -22,6 +22,8 @@ Chilled water events: 6/13 (planned), 6/27 (planned), 8/4 (unplanned)
 7/29/2025 - UPS service, replace batteries, warning remains. Power off, then power on, HT FW error. TEM server off -> F4 24V breaker and F3 HT breaker off, wait 20sec -> 24V on, wait 20sec -> HT on, wait -> FW Validate pass. Evacuate all, FEG Power on -> warm start. HT clickable when Extraction reaches 1000V.  
 
 8/5/2025 - Building chilled water supply loss. Recover optics, Ceta cooling.
+
+8/28/2025 - Optics degraded, Ceta cooling error. Recovered by stop and start TEM server.
 
 Past services on Tecnai T12
 ==========================
