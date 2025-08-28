@@ -19,6 +19,7 @@ Option #1
 
 
 Option #2
+
 1. shutting down the TEM server
 2. powering cycling the optics system
 3. restarting the TEM server
