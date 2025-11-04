@@ -37,9 +37,9 @@ Vacuum crash can occur during holder exchange. It shuts down TMPp and IGPco. Cet
 
 The system will attempt recovery automatically and Vacuum overview will show the progress.
 
-1. Retract Ceta if it was inserted. 
-2. Open the flapout of Vacuum control panel, go to Control tab, if 'Recover' button is clickable, press it. Wait and check the progress status in Vacuum overview. When 'To All Vacuum' (below 'Recover') button is clickable, press it. This should turn on IGPco. Wait for all items in Vacuum control panel to turn green. 
-3. Check sensor temperature in Ceta service tool. The target temperature is -18C. Wait for the temperature to go down. It may flucturates. You may proceed to insert Ceta when the temperature is below -17C. 
+1. Retract Ceta if it is inserted. 
+2. Open the flapout of Vacuum control panel, go to Control tab, if 'Recover' button is clickable, press it. Wait and check the progress status in Vacuum overview. When 'To All Vacuum' (below 'Recover') button is clickable, press it. This should turn on IGPco. Wait for the temperature of all items in Vacuum control panel to turn green. 
+3. Check sensor temperature in Ceta service tool. The target temperature is -18C. Wait for the temperature to go down. It may flucturates. You may proceed to insert Ceta when the temperature is below -17C. This may take one to two hours depending on the temperature that Ceta sensor rises to before cooling down again.
 4. When column vaccum recovers to below 20 log, you may open column valves and check the beam. 
 
 
