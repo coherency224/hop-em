@@ -36,6 +36,7 @@ Troubleshooting - Vacuum crash
 Vacuum crash can occur during holder exchange. It shuts down TMPp and IGPco. Ceta warms up due to loss of projection vacuum.
 
 The system will attempt recovery automatically and Vacuum overview will show the progress.
+
 1. Retract Ceta if it was inserted. 
 2. Open the flatout of Vacuum control panel, go to Control tab, if 'Recover' button is clickable, press it. Wait and check the progress status in Vacuum overview. When 'To All Vacuum' (below 'Recover') button is clickable, press it. This should turn on IGPco. Wait for all items in Vacuum control panel to turn green. 
 3. Check sensor temperature in Ceta service tool. The target temperature is -18C. Wait for the temperature to go down. It may flucturates. You may proceed to insert Ceta when the temperature is below -17C. 
