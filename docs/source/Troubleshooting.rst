@@ -40,7 +40,7 @@ The system will attempt recovery automatically and Vacuum overview will show the
 1. Retract Ceta if it is inserted. 
 2. Open the flapout of Vacuum control panel, go to Control tab, if 'Recover' button is clickable, press it. Wait and check the progress status in Vacuum overview. The system may activate 'To All vaccum' (the button turns yellow) automatically after TMPp reaches full speed. If not, press 'To All Vacuum' (below 'Recover') when it is clickable. This should turn on IGPco. Wait for all items in Vacuum control panel to turn green. 
 3. Check sensor temperature in Ceta service tool. The target temperature is -18C. Wait for the temperature to go down. It may flucturate. You may proceed to insert Ceta when the temperature is below -17C. This may take an hour depending on the temperature that Ceta sensor rises to before cooling down again.
-4. When column vaccum recovers to below 20 log, you may open column valves and check the beam. 
+4. When column pressure recovers to below 20 log, you may open column valves and check the beam. 
 
 
 
