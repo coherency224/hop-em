@@ -5,7 +5,7 @@ Past services on Talos 200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2025-10-27
+:Last-updated: 2025-11-6
 
 HVAC events: 6/13 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned), 8/27 (unplanned), 8/31-9/2 (unplanned)
 
@@ -30,6 +30,8 @@ Chilled water events: 6/13 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (un
 10/19/2025 - Building chilled water supply loss. 10/20, Recover optics, Ceta cooling.
 
 10/27/2025 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel. 
+
+11/6/2025 - Stage stuck in Y (>1000). TAD-Compustage control-reset Y by remote engineer. Enable stage in UI. Recovered.
 
 Past services on Tecnai T12
 ==========================
