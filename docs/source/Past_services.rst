@@ -7,9 +7,9 @@ Past services on Talos 200c
 :Date-created: 2025-6-11
 :Last-updated: 2025-11-6
 
-HVAC events: 6/13 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned), 8/27 (unplanned), 8/31-9/2 (unplanned)
+HVAC events: 6/13 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned), 8/27 (unplanned), 8/31-9/2 (unplanned), 11/13-14 (unplanned)
 
-Chilled water events: 6/13 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (unplanned)
+Chilled water events: 6/13 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (unplanned),  11/13-14 (unplanned)
 
 6/9/2025 to 6/17/2025 - Thermo service. Remove a lost grid on the differential pumping aperture. Chilled water treatment. Annual PM. <CA>
 
@@ -32,6 +32,8 @@ Chilled water events: 6/13 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (un
 10/27/2025 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel. 
 
 11/6/2025 - Stage stuck in Y (>1000). TAD-Compustage control-reset Y by remote engineer. Enable stage in UI. Recovered.
+
+11/13/2025 - Chiller room lost HVAC, chilled water. Reset HVAC UPS. 11/24, Recover vacuum, optics, Ceta cooling.
 
 Past services on Tecnai T12
 ==========================
