@@ -5,7 +5,7 @@ Past services on Talos 200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2025-11-6
+:Last-updated: 2025-11-17
 
 HVAC events: 6/13 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned), 8/27 (unplanned), 8/31-9/2 (unplanned), 11/13-14 (unplanned)
 
