@@ -35,6 +35,8 @@ Chilled water events: 6/13 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (un
 
 11/13/2025 - Chiller room lost HVAC, chilled water. Reset HVAC UPS. 11/24, Recover vacuum, optics, Ceta cooling.
 
+12/1/2025 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel (12/2). 
+
 Past services on Tecnai T12
 ==========================
 
