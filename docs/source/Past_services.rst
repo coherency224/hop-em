@@ -9,7 +9,7 @@ Past services on Talos 200c
 
 HVAC events: 6/13/2025 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned,v), 8/27 (unplanned), 8/31-9/2 (unplanned), 11/13-14 (unplanned), 12/5 (unplanned,v); 1/10-12/2026 (unplanned), 1/15-21 (unplanned), 1/23 (unplanned,v)
 
-Chilled water events: 6/13 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (unplanned),  11/13-14 (unplanned), 1/22/2026 unplanned)
+Chilled water events: 6/13/2025 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (unplanned),  11/13-14 (unplanned); 1/22/2026 (unplanned)
 
 6/9/2025 to 6/17/2025 - Thermo service. Remove a lost grid on the differential pumping aperture. Chilled water treatment. Annual PM. <CA>
 
