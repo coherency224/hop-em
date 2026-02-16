@@ -28,7 +28,7 @@ Protocols
    PowerCycle_Talos
    Troubleshooting
 
-CryoEM
+CryoEM resources
 --------
 
 .. toctree::
