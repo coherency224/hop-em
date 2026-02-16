@@ -1,5 +1,5 @@
-.. Alterntative_access:
+.. Alternative_access:
 
-Alterntatie Access
+Alternative Access
 ==========================
 https://www.lji.org/research/research-services/cryo-em/
