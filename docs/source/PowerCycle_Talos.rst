@@ -5,7 +5,7 @@ Power Cycle Talos F200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-25
-:Last-updated: 2025-7-29
+:Last-updated: 2026-3-9
 
 1. Retract and warm up CETA detector, HT off, FEG off, FEG Power off (IGPf), vent detect (settings>detect. Unit vented). unit.
 2. Launcher -> Stop All (Server and Applications)
