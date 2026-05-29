@@ -5,11 +5,11 @@ Past services on Talos 200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2026-4-10
+:Last-updated: 2026-5-29
 
-HVAC events: 6/13/2025 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned,v), 8/27 (unplanned), 8/31-9/2 (unplanned), 11/13-14 (unplanned), 11/21 (unplanned,v), 12/5 (unplanned,v); 1/10-12/2026 (unplanned), 1/15-21 (unplanned), 1/23 (unplanned,v)
+HVAC events: 6/13/2025 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned,v), 8/27 (unplanned), 8/31-9/2 (unplanned), 11/13-14 (unplanned), 11/21 (unplanned,v), 12/5 (unplanned,v); 1/10-12/2026 (unplanned), 1/15-21 (unplanned), 1/23 (unplanned,v), 5/22-28 (unplanned,v)
 
-Chilled water events: 6/13/2025 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (unplanned),  11/13-14 (unplanned); 1/22/2026 (unplanned)
+Chilled water events: 6/13/2025 (planned), 6/27 (planned), 8/4 (unplanned), 10/20 (unplanned),  11/13-14 (unplanned); 1/22/2026 (unplanned), 5/22-26 (unplanned)
 
 6/9/2025 to 6/17/2025 - Thermo service. Remove a lost grid on the differential pumping aperture. Chilled water treatment. Annual PM. <CA>
 
@@ -46,6 +46,8 @@ Chilled water events: 6/13/2025 (planned), 6/27 (planned), 8/4 (unplanned), 10/2
 3/9/2026 - UPS service, reset warning (reminder in 2 years) replace 2 fans, 4 capacitors, 3 fuses. Power off, then power on, FW Validate pass. Evacuate all, TMP stopped twice at standby speed when PIRpv just reached L pressure, a third attempt passed. IGPco took two attempts. FEG Power on when IGPco reached log 34 -> cold start.
 
 4/7/2026 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel (4/10).
+
+5/4/2026 - Electron source died. 5/13, Tip change bakeout; 5/15 bake out failed; ~5/19, replace IGP, bake out; 5/21 wait for seals and clamping ring.
 
 Past services on Tecnai T12
 ==========================
