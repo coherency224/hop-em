@@ -5,7 +5,7 @@ Past services on Talos 200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2026-5-29
+:Last-updated: 2026-6-4
 
 HVAC events: 6/13/2025 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned,v), 8/27 (unplanned), 8/31-9/2 (unplanned), 11/13-14 (unplanned), 11/21 (unplanned,v), 12/5 (unplanned,v); 1/10-12/2026 (unplanned), 1/15-21 (unplanned), 1/23 (unplanned,v), 5/22-28 (unplanned,v)
 
@@ -47,7 +47,7 @@ Chilled water events: 6/13/2025 (planned), 6/27 (planned), 8/4 (unplanned), 10/2
 
 4/7/2026 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel (4/10).
 
-5/4/2026 - Electron source died. 5/13, Tip change bakeout; 5/15 bake out failed; ~5/19, replace IGP, bake out; 5/21 wait for seals and clamping ring.
+5/4/2026 - Electron source died. 5/13, Tip change bakeout; 5/15 bake out failed; ~5/19, replace IGPf, bake out; 5/21 wait for seals and clamping ring; 6/4 seals and clamping ring delivered, optics OLSD board faulty, needs replacement.
 
 Past services on Tecnai T12
 ==========================
