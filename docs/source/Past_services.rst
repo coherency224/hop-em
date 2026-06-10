@@ -57,4 +57,4 @@ Past services on Tecnai T12
 :Last-updated: 2026-6-9
 
 PM in early 2025
-6/9/2026 - failed to power up. Input voltage measured 222V, should be 230V. Swap transformers, 230V achieved. Adjust compressed air, which was lost earlier. It can be powered up. Colomn IGP error. 
+6/9/2026 - failed to power up. Input voltage measured 222V, should be 230V. Swap transformers, 230V achieved. Adjust compressed air, which was lost earlier. It can be powered up. Column IGP error. Conditioning column
