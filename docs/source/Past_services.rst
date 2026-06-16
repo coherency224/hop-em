@@ -54,9 +54,11 @@ Past services on Tecnai T12
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2026-6-9
+:Last-updated: 2026-6-16
 
 PM in early 2025
+6/9/2026 - chiller checked by method scientific
+
 6/9/2026 - failed to power up. Input voltage measured 222V, should be 230V. Swap transformers, 230V achieved. Adjust compressed air, which was lost earlier. It can be powered up. Column IGP error. Conditioning column.
 
 6/15/2026 - compressed air lost due to power interruption on 6/11, recovered on 6/12. Press green ON button, start tem server, press Vac button. 
