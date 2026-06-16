@@ -5,7 +5,7 @@ Past services on Talos 200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2026-6-12
+:Last-updated: 2026-6-16
 
 HVAC events: 6/13/2025 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned,voltage), 8/27 (unplanned), 8/31-9/2 (unplanned), 11/13-14 (unplanned), 11/21 (unplanned,v), 12/5 (unplanned,v); 1/10-12/2026 (unplanned), 1/15-21 (unplanned), 1/23 (unplanned,v), 5/22-28 (unplanned,v), 6/6-8 (compressed air, unplanned,v), 6/11-12 (compressed air,v)
 
@@ -57,4 +57,6 @@ Past services on Tecnai T12
 :Last-updated: 2026-6-9
 
 PM in early 2025
-6/9/2026 - failed to power up. Input voltage measured 222V, should be 230V. Swap transformers, 230V achieved. Adjust compressed air, which was lost earlier. It can be powered up. Column IGP error. Conditioning column
+6/9/2026 - failed to power up. Input voltage measured 222V, should be 230V. Swap transformers, 230V achieved. Adjust compressed air, which was lost earlier. It can be powered up. Column IGP error. Conditioning column.
+
+6/15/2026 - compressed air lost due to power interruption on 6/11, recovered on 6/12. Press green ON button, start tem server, press Vac button. 
