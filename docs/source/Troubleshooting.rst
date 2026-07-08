@@ -5,7 +5,7 @@ Troubleshooting - Optics degraded on Talos F200c
 
 :Author: homewood cryoem
 :Date-created: 2025-7-18
-:Last-updated: 2026-6-17
+:Last-updated: 2026-7-8
 
 Concurrent Optics degraded error (no beam), and Ceta cooling error.
 
@@ -46,6 +46,8 @@ The system will attempt recovery automatically and Vacuum overview will show the
 
 Learning materials
 ==========================
+https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/getting-started-in-cryo-em.html
+
 https://vimeo.com/serialem
 
 https://www.youtube.com/user/EMSDIASUM/videos
