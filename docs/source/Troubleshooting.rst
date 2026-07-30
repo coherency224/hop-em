@@ -50,7 +50,7 @@ https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/gettin
 
 https://vimeo.com/serialem
 
-https://www.youtube.com/@pacificnorthwestcryoemcenter/videos
+https://www.youtube.com/@Cryo-EMAcademy/videos
 
 https://www.youtube.com/user/EMSDIASUM/videos
 
