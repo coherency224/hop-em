@@ -51,7 +51,7 @@ Chilled water events: 6/13/2025 (planned), 6/27 (planned), 8/4 (unplanned), 10/2
 
 7/8/2026 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel. 
 
-7/30/2026 - replace optics boards (OPU1A.Mk3, OPU2A Mk4), encountered IGPco error. Recovered on 7/31.
+7/30/2026 - Replace optics boards (OPU1A.Mk3, OPU2A Mk4), encountered IGPco error. Recovered on 7/31.
 
 Past services on Tecnai T12
 ==========================
