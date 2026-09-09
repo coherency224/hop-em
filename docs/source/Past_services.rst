@@ -5,7 +5,7 @@ Past services on Talos 200c
 
 :Author: homewood cryoem
 :Date-created: 2025-6-11
-:Last-updated: 2026-8-12
+:Last-updated: 2026-9-9
 
 HVAC events: 6/13/2025 (planned), 6/27 (planned), 7/15 (unplanned), 8/2 - 8/5 (unplanned), 8/12 (unplanned,voltage), 8/27 (unplanned), 8/31-9/2 (unplanned), 11/13-14 (unplanned), 11/21 (unplanned,v), 12/5 (unplanned,v); 1/10-12/2026 (unplanned), 1/15-21 (unplanned), 1/23 (unplanned,v), 5/22-28 (unplanned,v), 6/6-8 (compressed air, unplanned,v), 6/11-12 (compressed air,v), 8/12 (unplanned)
 
@@ -52,6 +52,10 @@ Chilled water events: 6/13/2025 (planned), 6/27 (planned), 8/4 (unplanned), 10/2
 7/8/2026 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel. 
 
 7/30/2026 - Replace optics boards (OPU1A.Mk3, OPU2A Mk4), encountered IGPco error. Recovered on 7/31.
+
+8/6/2026 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel. 
+
+9/5/2026 - Optics degraded, Ceta cooling error. Recovered by clearing history in ceta panel, pressing Recover in Optics panel (9/8). 
 
 Past services on Tecnai T12
 ==========================
